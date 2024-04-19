@@ -1,0 +1,1 @@
+.loaded .preloader,.preloader,.preloader-gif{transition-delay:3s}.preloader{position:fixed;top:0;left:0;width:100%;height:100%;max-width:100%;min-height:100%;background:#000;display:flex;justify-content:center;align-items:center;z-index:999999;opacity:1}.loaded .preloader{opacity:0;pointer-events:none}
